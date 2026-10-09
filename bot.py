@@ -8,7 +8,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
 # Токени боти шумо
-TOKEN = "8997625871:AAFmtspJhY7JpuGhLAGZZEJySmSFQ-IXM_k"
+TOKEN = "8782383492:AAFUh9OKDbBj1iVmRfBe73bp0nC_K9CsqYY"
 ADMIN_ID = 8863442172
 
 logging.basicConfig(level=logging.INFO)
